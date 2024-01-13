@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajan Adhikari!!!</h1>
+<h1 align="center">Hi 👋, I'm Sajan Adhikari!!</h1>
 <h3 align="center">🚀 Software Developer | 🌐 Web Enthusiast</h3>
 
 <h3 align="center">Welcome to my GitHub profile! I enjoy building cool things and exploring new technologies.</h3>
@@ -17,11 +17,11 @@
 </p>
 
 
-- 🔭 I’m currently working on **Vehicle Rental System**
+- 🔭 I’m currently working on **Vehicle Rental System.**
 
 - 📫 How to reach me **sajanac46@gmail.com**
 
-- ⚡ Fun fact **I have a girl.(Most of you don't)**
+- ⚡ Fun fact **I love Gaming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
