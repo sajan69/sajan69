@@ -26,10 +26,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sajanad7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajanad7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sajanadhikari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajanadhikari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sajan-adhikari-78843126a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajanadhikari" height="30" width="40" /></a>
 <a href="https://www.facebook.com/who.gives.a.sheeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajanadhikari" height="30" width="40" /></a>
 <a href="https://instagram.com/sajanxetri.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajanxetri.1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@beastmaster6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sajan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
