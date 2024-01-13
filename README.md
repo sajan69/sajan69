@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sajan Adhikari!!!</h1>
-<h3 align="center">A passionate web app developer from Pokhara, Nepal.</h3>
+<h3 align="center">🚀 Software Developer | 🌐 Web Enthusiast</h3>
+
+<h3 align="center">Welcome to my GitHub profile! I enjoy building cool things and exploring new technologies.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajan69&label=Profile%20views&color=0e75b6&style=flat" alt="sajan69" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan69" alt="sajan69" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/sajanad7" target="blank"><img src="https://img.shields.io/twitter/follow/Sajan Adhikari?logo=twitter&style=for-the-badge" alt="Sajan Adhikari" /></a> </p>
 
@@ -114,3 +117,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajan69&show_icons=true&locale=en" alt="sajan69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajan69&" alt="sajan69" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajan69" alt="sajan69" /></a> </p>
