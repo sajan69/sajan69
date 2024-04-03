@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
         <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
         <img src="https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-        <img src="https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="NodeJs">
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-icon.svg" alt="NodeJs">
     </p>
 
 
