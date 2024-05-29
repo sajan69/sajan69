@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sajanac46@gmail.com**
 
-- ⚡ Hobbies : **I enjoy building Mobile Applications especially Games.**
+- ⚡ Hobbies : **I enjoy building Mobile Applications and Web Apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
