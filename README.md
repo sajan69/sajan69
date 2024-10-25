@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on [NepLink](https://github.com/sajan69/neplink-alpha)<br>👯 I’m looking to collaborate on any projects Involving Cloud.<br>🌱 I’m currently learning Docker , K8 ,Terraform.<br>
+🔭 I’m currently working on [NepLink](https://github.com/sajan69/neplink_alpha)<br>👯 I’m looking to collaborate on any projects Involving Cloud.<br>🌱 I’m currently learning Docker , K8 ,Terraform.<br>
 
 
 ## 🌐 Socials:
